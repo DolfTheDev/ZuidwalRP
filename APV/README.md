@@ -86,7 +86,7 @@ layout:
 
 * Het liegen tegen een stafflid is niet toegestaan
 
-Artikel 16: Reports
+**Artikel 16: Reports**
 
 * Reports moeten uitgebreid zijn anders worden ze niet behandeld
 
