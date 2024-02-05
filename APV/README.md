@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Screenshot 2024-01-21 172844.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
