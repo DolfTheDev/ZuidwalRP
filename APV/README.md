@@ -87,3 +87,9 @@ layout:
 * Respecteer alle spelers, ongeacht hun speelstijl of achtergrond. Discriminatie op basis van ras, geslacht, seksualiteit of religie is niet acceptabel.
 * Herhaald schenden van deze regel zal resulteren in strengere maatregelen, inclusief langere bans of permanente uitsluiting van het spel.
 
+**Artikel 15: Liegen tegen stafflid**
+
+Het liegen tegen een stafflid is niet toegestaan
+
+
+
