@@ -89,7 +89,7 @@ layout:
 
 **Artikel 15: Liegen tegen stafflid**
 
-\-Het liegen tegen een stafflid is niet toegestaan
+* Het liegen tegen een stafflid is niet toegestaan
 
 Artikel 16: Reports
 
