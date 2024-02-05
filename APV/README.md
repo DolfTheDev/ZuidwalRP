@@ -90,3 +90,6 @@ layout:
 
 * Reports moeten uitgebreid zijn anders worden ze niet behandeld
 
+\*\*Artikel 17: Niet dolf uitschelden\*\*
+
+* Is instant perma
