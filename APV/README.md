@@ -90,10 +90,6 @@ layout:
 
 * Reports moeten uitgebreid zijn anders worden ze niet behandeld
 
-**Artikel 17: Niet dolf uitschelden**
+**Artikel 17: Onderwereld call.**
 
-* Is instant perma
-
-**Artikel 18: Onderwereld call.**
-
-* je bent als ganglid verplicht om in het kanaal te gaan om mute
+* je bent als ganglid verplicht om in het kanaal te gaan om mute.
