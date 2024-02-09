@@ -93,3 +93,7 @@ layout:
 **Artikel 17: Niet dolf uitschelden**
 
 * Is instant perma
+
+**Artikel 18: Onderwereld call.**
+
+* je bent als ganglid verplicht om in het kanaal te gaan om mute
