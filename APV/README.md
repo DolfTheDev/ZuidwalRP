@@ -40,7 +40,8 @@ layout:
 
 **Artikel 5.1: Onderwereld 2**
 
-* Wapens mogen niet worden weggelegd binnen 3 minuten na gebruik. Overtredingen leiden tot verwijdering van het wapen en een waarschuwing.
+* Wapens mogen niet worden weggelegd binnen 5 minuten na gebruik. Overtredingen leiden tot verwijdering van het wapen en een waarschuwing.
+* Je mag je voertuigen niet wegzetten midden in een achtervolging.
 
 **Artikel 6: Overvallen**
 
