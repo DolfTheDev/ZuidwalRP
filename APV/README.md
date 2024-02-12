@@ -62,6 +62,7 @@ layout:
 **Artikel 10: Verboden items om te rippen**
 
 * Het rippen van Lucky Wheel-tickets, autosleutels, en meer dan 50k cash is niet toegestaan.
+* Het is niet toegestaan om uwv job items te rippen
 
 **Artikel 11: Overheid**
 
