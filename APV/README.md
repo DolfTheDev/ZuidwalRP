@@ -96,6 +96,6 @@ layout:
 
 * je bent als ganglid verplicht om in het kanaal te gaan om mute.
 
-Artikel 18: Hostagen van hulpdiensten.
+**Artikel 18: Hostagen van hulpdiensten.**
 
-* &#x20;Je mag hulpdiensten pas hostagen vanaf  3 Agenten
+* &#x20;Je mag hulpdiensten pas hostagen vanaf 2 Agenten
