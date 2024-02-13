@@ -103,3 +103,7 @@ layout:
 **Artikel 19: Hostagen van hulpdiensten.**
 
 * &#x20;Als je een politie agent hebt gehostaged. mag je maar 35K Uit de kluis vragen
+
+**Artikel 20: Ijsland**
+
+* Op eiland mag iedereen geript worden.
