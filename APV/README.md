@@ -99,3 +99,7 @@ layout:
 **Artikel 18: Hostagen van hulpdiensten.**
 
 * &#x20;Je mag hulpdiensten pas hostagen vanaf 2 Agenten
+
+**Artikel 19: Hostagen van hulpdiensten.**
+
+* &#x20;Als je een politie agent hebt gehostaged. mag je maar 35K Uit de kluis vragen
