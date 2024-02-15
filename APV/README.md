@@ -107,3 +107,8 @@ layout:
 **Artikel 20: Ijsland**
 
 * Op eiland mag iedereen geript worden.
+
+**Artikel 21: Boetes**
+
+* Politie mag mensen boetes geven van afstand als het om een parkeer boeten gaat.
+* Boetes moeten worden gegeven vanuit het meos systeem of f6 ingame
