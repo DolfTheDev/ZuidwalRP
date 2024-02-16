@@ -112,3 +112,9 @@ layout:
 
 * Politie mag mensen boetes geven van afstand als het om een parkeer boeten gaat.
 * Boetes moeten worden gegeven vanuit het meos systeem of f6 ingame
+
+**Artikel 22: Het reanimeren van een persoon.**
+
+* je mag een persoon reanimeren als die boven de 20 bpm heeft en meer als 60% Bloed heeft.
+* Je moet een persoon meenemen naar het ziekenhuis als die onder de 75% Bloed heeft.
+* Je mag een dood persoon niet fouileren om zijn spullen af te pakken.
