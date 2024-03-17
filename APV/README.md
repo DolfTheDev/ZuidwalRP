@@ -123,6 +123,6 @@ layout:
 
 * Staff maakt een kanaal voor officiële gangoorlogen.
 * Een gangoorlog duurt maximaal 5 rondes.
-* Tijdens een gangoorlog mogen bendes elkaar altijd aanvallen, maar je moet een goede reden hebben.
+* Tijdens een gangoorlog mogen bendes elkaar altijd aanvallen, maar je moet weten of het persoon van de gang is.
 * Valsspelen is verboden tijdens een gangoorlog.
 * Als je de regels overtreedt, kun je gestraft worden door staff, bijvoorbeeld met een waarschuwing of verbanning.
