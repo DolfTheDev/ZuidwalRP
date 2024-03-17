@@ -118,3 +118,11 @@ layout:
 * je mag een persoon reanimeren als die boven de 20 bpm heeft en meer als 60% Bloed heeft.
 * Je moet een persoon meenemen naar het ziekenhuis als die onder de 75% Bloed heeft.
 * Je mag een dood persoon niet fouileren om zijn spullen af te pakken.
+
+**Artikel 23: Gangoorlog**
+
+* Staff maakt een kanaal voor officiële gangoorlogen.
+* Een gangoorlog duurt maximaal 5 rondes.
+* Tijdens een gangoorlog mogen bendes elkaar altijd aanvallen, maar je moet een goede reden hebben.
+* Valsspelen is verboden tijdens een gangoorlog.
+* Als je de regels overtreedt, kun je gestraft worden door staff, bijvoorbeeld met een waarschuwing of verbanning.
