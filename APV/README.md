@@ -32,7 +32,7 @@ layout:
 
 **Artikel 4.1: GTA-Style Driving**
 
-* Onrealistisch rijden, zoals het uitvoeren van stuntritten, is niet toegestaan. Overtredingen leiden tot een waarschuwing, behalve als het in strijd is met Artikel 1. pitten boven de 120 zijn is niet toegestaan.
+* Onrealistisch rijden, zoals het uitvoeren van stuntritten, is niet toegestaan. Overtredingen leiden tot een waarschuwing, behalve als het in strijd is met Artikel 1. pitten boven de 140 zijn is niet toegestaan.
 
 **Artikel 5: Onderwereld**
 
