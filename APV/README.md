@@ -14,128 +14,63 @@ layout:
 
 # APV
 
-**Artikel 1: RDM (Random Deathmatch)**
 
-* Het willekeurig doden van een speler zonder geldige reden is niet toegestaan. Hierop staat een ban van 1 week.
 
-**Artikel 2: VDM (Vehicle Deathmatch)**
+***
 
-* Het doden van een speler met een voertuig is niet toegestaan, zelfs niet met een reden. De beoordeling of het een verkeersongeval is, wordt gemaakt op basis van verkeersregels, realisme en locatie van het incident.
+**Artikel 1: Random Deathmatch (RDM)** Het willekeurig doden van een speler zonder geldige reden is niet toegestaan. Overtreding van deze regel resulteert in een ban van 1 week.
 
-**Artikel 3: METAGAMING**
+**Artikel 2: Vehicle Deathmatch (VDM)** Het doden van een speler met een voertuig is niet toegestaan, zelfs niet met een reden. De beoordeling of het een verkeersongeval is, wordt gemaakt op basis van verkeersregels, realisme en locatie van het incident.
 
-* Het is niet toegestaan om out-of-character (OOC) verkregen informatie in-game te gebruiken. Overtredingen kunnen leiden tot een waarschuwing.
+**Artikel 3: Metagaming** Het is niet toegestaan om out-of-character (OOC) verkregen informatie in-game te gebruiken. Overtredingen kunnen leiden tot een waarschuwing.
 
-**Artikel 4: NVOL (No Value of Life)**
+**Artikel 4: No Value of Life (NVOL)** Wanneer een wapen op je gericht is, moet je gehoorzamen. Het niet gehoorzamen aan een gewapend persoon wordt beschouwd als NVOL. Bij een mes geldt een afstand van 5 stappen en bij een vuurwapen 10 tot 25 stappen. Onverantwoordelijk gedrag in levensbedreigende situaties kan resulteren in een ban van maximaal 2 dagen.
 
-* Onverantwoordelijk gedrag in situaties waarin je leven op het spel staat, kan resulteren in een ban van maximaal 2 dagen.
+**Artikel 4.1: GTA-Style Driving** Onrealistisch rijgedrag, zoals stuntrijden, is niet toegestaan. Overtredingen leiden tot een waarschuwing, behalve als het in strijd is met Artikel 1. Snelheden boven de 140 km/u zijn niet toegestaan.
 
-**Artikel 4.1: GTA-Style Driving**
+**Artikel 5: Onderwereld** Het verkopen van wapens is alleen toegestaan als zowel de verkoper als de koper meer dan 2 uur speeltijd hebben. Schending van deze regel kan leiden tot een ban van maximaal 5 dagen.
 
-* Onrealistisch rijden, zoals het uitvoeren van stuntritten, is niet toegestaan. Overtredingen leiden tot een waarschuwing, behalve als het in strijd is met Artikel 1. pitten boven de 140 zijn is niet toegestaan.
+**Artikel 5.1: Onderwereld 2** Wapens mogen niet worden opgeborgen binnen 5 minuten na gebruik. Overtredingen leiden tot verwijdering van het wapen en een waarschuwing. Voertuigen mogen niet worden achtergelaten tijdens een achtervolging.
 
-**Artikel 5: Onderwereld**
+**Artikel 6: Overvallen** Alleen met 4+ politieleden aanwezig mogen buitenstaande schutters worden gebruikt. De politie mag alleen ingrijpen als er geen gijzelaars zijn.
 
-* Het verkopen van wapens is alleen toegestaan als zowel de verkoper als de koper meer dan 2 uur speeltijd hebben. Schending van deze regel kan leiden tot een ban van maximaal 5 dagen.
+**Artikel 7: Rippen** Het rippen van een speler is alleen toegestaan als deze een holster of masker draagt. Ongegrond rippen resulteert in het afnemen van wapens en een ban van maximaal 4 dagen.
 
-**Artikel 5.1: Onderwereld 2**
+**Artikel 8: Campen** Onnodig stilstaan op specifieke locaties, zoals drugspluk, drugsverpakking, en politie-hoofdbureau, is niet toegestaan. Overtredingen leiden tot een ban van 4 uur.
 
-* Wapens mogen niet worden weggelegd binnen 5 minuten na gebruik. Overtredingen leiden tot verwijdering van het wapen en een waarschuwing.
-* Je mag je voertuigen niet wegzetten midden in een achtervolging.
+**Artikel 9: Rippen op specifieke locaties** Het rippen van spelers is niet toegestaan op specifieke locaties, zoals drugsverpakkingslocaties.
 
-**Artikel 6: Overvallen**
+**Artikel 10: Verboden items om te rippen** Het rippen van Lucky Wheel-tickets, autosleutels en meer dan 50k cash is niet toegestaan. Het is niet toegestaan om spullen van uwv jobs te rippen.
 
-* Buitenstaande schutters mogen alleen worden gebruikt met 4+ politieleden aanwezig. De politie mag alleen binnenvallen als er geen gijzelaars zijn.
+**Artikel 11: Overheid** Overheidsinstanties mogen geen criminele activiteiten ondernemen, behalve voor specifieke rollen zoals Taxi, Ambulance, ANWB. Toegang tot drugs- en evenementenlocaties is beperkt.
 
-**Artikel 7: Rippen**
+**Artikel 12: Doxing/DDoS, etc.** Het uitvoeren of dreigen met doxing of DDoS is ten strengste verboden.
 
-* Het rippen van een speler is alleen toegestaan als deze een holster of masker draagt. Ongegrond rippen resulteert in het afnemen van wapens en een ban van maximaal 4 dagen.
+**Artikel 13: Exploiting/Hacking** Het gebruiken van exploits, hacks of andere oneerlijke methoden om oneigenlijk voordeel te behalen in het spel is strikt verboden.
 
-**Artikel 8: Campen**
+**Artikel 14: Schelden/Belediging** Grove taal, beledigingen en andere vormen van disrespectvolle communicatie zijn niet toegestaan binnen het spel. Discriminatie op basis van ras, geslacht, seksualiteit of religie is niet acceptabel.
 
-* Onnodig stilstaan op specifieke locaties, zoals drugspluk, drugsverpakking, en politie-hoofdbureau, is niet toegestaan. Overtredingen leiden tot een ban van 4 uur.
+**Artikel 15: Liegen tegen stafflid** Het liegen tegen een stafflid is niet toegestaan.
 
-**Artikel 9: Rippen op specifieke locaties**
+**Artikel 16: Reports** Reports moeten uitgebreid zijn anders worden ze niet behandeld.
 
-* Het rippen van spelers is niet toegestaan op specifieke locaties, zoals drugsverpakkingslocaties.
+**Artikel 17: Onderwereld call** Als ganglid ben je verplicht om in het aangewezen kanaal te gaan en te zwijgen.
 
-**Artikel 10: Verboden items om te rippen**
+**Artikel 18: Hostagen van hulpdiensten** Je mag hulpdiensten pas gijzelen vanaf 2 agenten aanwezig zijn.
 
-* Het rippen van Lucky Wheel-tickets, autosleutels, en meer dan 50k cash is niet toegestaan.
-* Het is niet toegestaan om uwv job items te rippen
+**Artikel 19: Hostagen van hulpdiensten** Als je een politieagent hebt gegijzeld, mag je maximaal 35K uit de kluis vragen.
 
-**Artikel 11: Overheid**
+**Artikel 20: IJsland** Op het eiland mag iedereen worden beroofd.
 
-* Overheidsinstanties mogen niet crimineel zijn, behalve voor specifieke rollen zoals Taxi, Ambulance, ANWB. Toegang tot drugs- en evenementenlocaties is beperkt.
+**Artikel 21: Boetes** Politie mag mensen boetes geven vanaf afstand als het om parkeerboetes gaat. Boetes moeten worden uitgegeven vanuit het meos systeem of in-game via F6.
 
-**Artikel 12: Doxing/DDos, etc.**
+**Artikel 22: Het reanimeren van een persoon** Je mag een persoon reanimeren als die een hartslag van boven de 20 bpm heeft en meer dan 60% Bloed heeft. Je moet een persoon meenemen naar het ziekenhuis als die onder de 75% Bloed heeft. Het fouilleren van een dood persoon om zijn spullen af te pakken is niet toegestaan.
 
-* Het uitvoeren of dreigen met doxing of DDoS is ten strengste verboden.
+**Artikel 23: Gangoorlog** Staff maakt een kanaal voor officiële gangoorlogen. Een gangoorlog duurt maximaal 5 rondes. Tijdens een gangoorlog mogen bendes elkaar altijd aanvallen, maar je moet weten of de persoon lid is van de andere bende. Valsspelen is verboden tijdens een gangoorlog. Overtreding van deze regels kan leiden tot sancties door het personeel, zoals waarschuwingen of verbanningen.
 
-**Artikel 13: Exploiting/Hacking**
+**Artikel 24: New Life Rule (NLR)** Nadat je bent gestorven, weet je niets meer over je volgende leven (in-game).
 
-* Het gebruiken van exploits, hacks of andere oneerlijke methoden om oneigenlijk voordeel te behalen in het spel is strikt verboden. Dit omvat, maar is niet beperkt tot, het manipuleren van software, het gebruik van cheats, het ontdekken en misbruiken van fouten in het spel of het overtreden van de spelregels op ongeoorloofde wijze.
-* Spelers die schuldig worden bevonden aan exploiting/hacking zullen worden onderworpen aan onmiddellijke actie, variërend van een permanente ban tot andere passende maatregelen, afhankelijk van de ernst van de overtreding en herhaling van het gedrag.
-* Meldingen van mogelijke exploits dienen onmiddellijk aan het personeel te worden doorgegeven. Het niet naleven van deze regel kan resulteren in disciplinaire maatregelen tegen de nalatige partij. We streven naar een eerlijke, respectvolle en leuke spelomgeving voor alle spelers en rekenen op de medewerking van de gemeenschap om dit te handhaven.
+\
+**Artikel 25: Onnodige Reports** Het maken van onnodige reports is niet toegestaan en zal resulteren in een ban. Ook het spammen in een report leidt tot een ban.
 
-**Artikel 14: Schelden/Beledeging**
-
-* Grove taal, beledigingen, en andere vormen van disrespectvolle communicatie zijn niet toegestaan binnen het spel. Overtredingen kunnen leiden tot sancties zoals waarschuwingen of tijdelijke bans.
-* Respecteer alle spelers, ongeacht hun speelstijl of achtergrond. Discriminatie op basis van ras, geslacht, seksualiteit of religie is niet acceptabel.
-* Herhaald schenden van deze regel zal resulteren in strengere maatregelen, inclusief langere bans of permanente uitsluiting van het spel.
-
-**Artikel 15: Liegen tegen stafflid**
-
-* Het liegen tegen een stafflid is niet toegestaan
-
-**Artikel 16: Reports**
-
-* Reports moeten uitgebreid zijn anders worden ze niet behandeld
-
-**Artikel 17: Onderwereld call.**
-
-* je bent als ganglid verplicht om in het kanaal te gaan om mute.
-
-**Artikel 18: Hostagen van hulpdiensten.**
-
-* &#x20;Je mag hulpdiensten pas hostagen vanaf 2 Agenten
-
-**Artikel 19: Hostagen van hulpdiensten.**
-
-* &#x20;Als je een politie agent hebt gehostaged. mag je maar 35K Uit de kluis vragen
-
-**Artikel 20: Ijsland**
-
-* Op eiland mag iedereen geript worden.
-
-**Artikel 21: Boetes**
-
-* Politie mag mensen boetes geven van afstand als het om een parkeer boeten gaat.
-* Boetes moeten worden gegeven vanuit het meos systeem of f6 ingame
-
-**Artikel 22: Het reanimeren van een persoon.**
-
-* je mag een persoon reanimeren als die boven de 20 bpm heeft en meer als 60% Bloed heeft.
-* Je moet een persoon meenemen naar het ziekenhuis als die onder de 75% Bloed heeft.
-* Je mag een dood persoon niet fouileren om zijn spullen af te pakken.
-
-**Artikel 23: Gangoorlog**
-
-* Staff maakt een kanaal voor officiële gangoorlogen.
-* Een gangoorlog duurt maximaal 5 rondes.
-* Tijdens een gangoorlog mogen bendes elkaar altijd aanvallen, maar je moet weten of het persoon van de gang is.
-* Valsspelen is verboden tijdens een gangoorlog.
-* Als je de regels overtreedt, kun je gestraft worden door staff, bijvoorbeeld met een waarschuwing of verbanning.
-
-**Artikel 24: New Life Rule (NLR)**
-
-* nadat je dood bent gegaan weet je niks meer  over je volgende leven (Ingame)
-
-**Artikel 25: Onodige Reports**
-
-* Het maken van onodige reports is niet toegestaan. en zal resulteren in een ban
-* Je mag ook niet spamen in een report dan krijg je ook een ban
-
-**Artikel 26: JobHopen**
-
-* Nadat je weg bent gegaan bij een job moet je 1 week wachten om bij de politie terug te komen.
+**Artikel 26: JobHopping** Na het verlaten van een baan moet je 1 week wachten voordat je weer bij de overheid\`s kunt terugkeren.
