@@ -135,3 +135,7 @@ layout:
 
 * Het maken van onodige reports is niet toegestaan. en zal resulteren in een ban
 * Je mag ook niet spamen in een report dan krijg je ook een ban
+
+**Artikel 26: JobHopen**
+
+* Nadat je weg bent gegaan bij een job moet je 1 week wachten om bij de politie terug te komen.
