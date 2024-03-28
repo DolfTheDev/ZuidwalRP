@@ -126,3 +126,12 @@ layout:
 * Tijdens een gangoorlog mogen bendes elkaar altijd aanvallen, maar je moet weten of het persoon van de gang is.
 * Valsspelen is verboden tijdens een gangoorlog.
 * Als je de regels overtreedt, kun je gestraft worden door staff, bijvoorbeeld met een waarschuwing of verbanning.
+
+**Artikel 24: New Life Rule (NLR)**
+
+* nadat je dood bent gegaan weet je niks meer  over je volgende leven (Ingame)
+
+**Artikel 25: Onodige Reports**
+
+* Het maken van onodige reports is niet toegestaan. en zal resulteren in een ban
+* Je mag ook niet spamen in een report dan krijg je ook een ban
