@@ -28,7 +28,7 @@ layout:
 
 **Artikel 4.1: GTA-Style Driving** Onrealistisch rijgedrag, zoals stuntrijden, is niet toegestaan. Overtredingen leiden tot een waarschuwing, behalve als het in strijd is met Artikel 1. Snelheden boven de 140 km/u zijn niet toegestaan.
 
-**Artikel 5: Onderwereld** Het verkopen van wapens is alleen toegestaan als zowel de verkoper als de koper meer dan 2 uur speeltijd hebben. Schending van deze regel kan leiden tot een ban van maximaal 5 dagen.
+**Artikel 5: Onderwereld Het is niet toegsetaan om met meer dan 1 anderen gang een samenwerking (Ally) Te starten**
 
 **Artikel 5.1: Onderwereld 2** Wapens mogen niet worden opgeborgen binnen 5 minuten na gebruik. Overtredingen leiden tot verwijdering van het wapen en een waarschuwing. Voertuigen mogen niet worden achtergelaten tijdens een achtervolging.
 
