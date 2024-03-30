@@ -60,7 +60,7 @@ layout:
 
 **Artikel 19: Hostagen van hulpdiensten** Als je een politieagent hebt gegijzeld, mag je maximaal 35K uit de kluis vragen.
 
-**Artikel 20: IJsland** Op het eiland mag iedereen worden beroofd.
+**Artikel 20: island o**p het eiland mag iedereen worden beroofd.
 
 **Artikel 21: Boetes** Politie mag mensen boetes geven vanaf afstand als het om parkeerboetes gaat. Boetes moeten worden uitgegeven vanuit het meos systeem of in-game via F6.
 
