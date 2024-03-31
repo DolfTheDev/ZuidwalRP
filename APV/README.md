@@ -74,3 +74,9 @@ layout:
 **Artikel 25: Onnodige Reports** Het maken van onnodige reports is niet toegestaan en zal resulteren in een ban. Ook het spammen in een report leidt tot een ban.
 
 **Artikel 26: JobHopping** Na het verlaten van een baan moet je 1 week wachten voordat je weer bij de overheid\`s kunt terugkeren.
+
+
+
+**Artikel 27: Politie Moneyfarmen**
+
+Het afk staan als politie of het niet komen naar meldingen zal bestraft worden
