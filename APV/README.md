@@ -36,7 +36,11 @@ layout:
 
 **Artikel 7: Rippen** Het rippen van een speler is alleen toegestaan als deze een holster of masker draagt. Ongegrond rippen resulteert in het afnemen van wapens en een ban van maximaal 4 dagen.
 
-**Artikel 8: Campen** Onnodig stilstaan op specifieke locaties, zoals drugspluk, drugsverpakking, en politie-hoofdbureau, is niet toegestaan. Overtredingen leiden tot een ban van 4 uur.
+Ook mag je een persoon rippen als je een persoon ziet klopen op deuren. LET OP Dit kan na max 10 minuten.
+
+als je een een Ripactie hebt uitgevoerd moet je 10 minuten wachten todat je hem weer mag Rippen
+
+**Artikel 8: Campen** Het stilstaan en wachten om te rippen op specifieke locaties, zoals drugspluk, drugsverpakking, en politie-hoofdbureau, is niet toegestaan. Overtredingen leiden tot een ban van 4 uur.
 
 **Artikel 9: Rippen op specifieke locaties** Het rippen van spelers is niet toegestaan op specifieke locaties, zoals drugsverpakkingslocaties.
 
@@ -68,14 +72,10 @@ layout:
 
 **Artikel 23: Gangoorlog** Staff maakt een kanaal voor officiële gangoorlogen. Een gangoorlog duurt maximaal 5 rondes. Tijdens een gangoorlog mogen bendes elkaar altijd aanvallen, maar je moet weten of de persoon lid is van de andere bende. Valsspelen is verboden tijdens een gangoorlog. Overtreding van deze regels kan leiden tot sancties door het personeel, zoals waarschuwingen of verbanningen.
 
-**Artikel 24: New Life Rule (NLR)** Nadat je bent gestorven, weet je niets meer over je volgende leven (in-game).
-
-\
+**Artikel 24: New Life Rule (NLR)** Nadat je bent gestorven, weet je niets meer over je volgende leven (in-game).\
 **Artikel 25: Onnodige Reports** Het maken van onnodige reports is niet toegestaan en zal resulteren in een ban. Ook het spammen in een report leidt tot een ban.
 
 **Artikel 26: JobHopping** Na het verlaten van een baan moet je 1 week wachten voordat je weer bij de overheid\`s kunt terugkeren.
-
-
 
 **Artikel 27: Politie Moneyfarmen**
 
