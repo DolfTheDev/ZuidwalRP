@@ -81,6 +81,10 @@ als je een een Ripactie hebt uitgevoerd moet je 10 minuten wachten todat je hem 
 
 Het afk staan als politie of het niet komen naar meldingen zal bestraft worden
 
+**Artikel 28: Failrp**
+
+**Meerdere vormen van failrp zijn midden in het scenariio van roleplay switchen of combatgedrag. ook is een vorm van failrp pratten terwijl je dood bent want dat is onrealistisch**
+
 **Artkikel 28: Offroaden met voeruigen**
 
 Onder off-road wordt verstaan grond waarop gereden wordt die bestaat uit gras, zand of modder waarbij geen zichtbaar pad of weg beschikbaar is.
