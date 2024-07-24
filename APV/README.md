@@ -80,3 +80,117 @@ als je een een Ripactie hebt uitgevoerd moet je 10 minuten wachten todat je hem 
 **Artikel 27: Politie Moneyfarmen**
 
 Het afk staan als politie of het niet komen naar meldingen zal bestraft worden
+
+**Artkikel 28: Offroaden met voeruigen**
+
+Onder off-road wordt verstaan grond waarop gereden wordt die bestaat uit gras, zand of modder waarbij geen zichtbaar pad of weg beschikbaar is.
+
+**Onverharde wegen:**
+
+Alle voertuigen mogen op Onverharde wegen rijden met een max van 100 km/u (Dit geld voor alle wegen die aangeduid zijn op de map), rijden is toegestaan parkeren niet.
+
+**Off-Road:**
+
+• KTM 530 Supermoto
+
+• Ktm EXC enduro
+
+• Kamacho
+
+• Rebel Raid
+
+• Dodge Ram
+
+• Stelvio
+
+• Titan
+
+• Cayenne
+
+• Cayenne Turbo GT
+
+• DBX
+
+• Lexus LX470
+
+• Kawaski KW450F
+
+• Range Rover Sport
+
+• Range Rover Startech
+
+• Audi q7
+
+• Bmw x7
+
+• Africat
+
+• Jaguar F pace
+
+• Mercedes 6X6
+
+• Mercedes G65 AMg
+
+• Mercedes g800
+
+• Mercedes G63
+
+• Mercedes X klasse
+
+• Jeep wrangler
+
+• Jeep Gladiator
+
+• Jeep SRT
+
+• Urus
+
+• Ford F150
+
+• Ford Raptor
+
+• Ford Bronco
+
+• Ford Raptor 6X6
+
+• Toyota Land Cruiser
+
+&#x20;
+
+**Overheidsvoertuigen:**
+
+_**Onverharde wegen:**_
+
+• ANWB – Flatbed
+
+• ANWB – Vito
+
+• ANWB – T5
+
+• ANWB – T6
+
+• AMBU – Mico
+
+• AMBU – Sprinter
+
+• AMBU – Mercedes M-Klasse
+
+• AMBU – Volvo XC40
+
+• DSI – Vito
+
+• Politie – Flatbed
+
+• Politie – Arrestanten bus
+
+• Politie – T6
+
+_**Off-Road:**_
+
+• ANWB – Toyota Tundra
+
+• Politie – Amarok
+
+• Politie – Toyota Landcruiser
+
+• Politie – Dirtbike
